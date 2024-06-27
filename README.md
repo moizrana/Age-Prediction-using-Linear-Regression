@@ -1,6 +1,6 @@
 # Speaker Age Prediction from Audio Recordings
 
-The **Speaker Age Prediction from Audio Recordings** project aims to predict the age of speakers based on acoustic features extracted from their audio recordings. This documentation provides an overview of the project, including its purpose, methodology, and implementation details.
+The **Speaker Age Prediction from Audio Recordings** project aims to predict the age of speakers based on acoustic features extracted from their audio recordings. The model is trained using Linear Regression from scratch.
 
 ## Overview
 
